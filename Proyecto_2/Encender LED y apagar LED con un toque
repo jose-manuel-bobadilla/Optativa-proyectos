@@ -21,3 +21,5 @@ void loop(){
     while(digitalRead(PULSADOR) == HIGH){
     }
 }
+
+// tinker https://www.tinkercad.com/things/a6gggnlnBOn-laboratori1?sharecode=1tPR2ZeSFkx5WDf_R809BFwoXIQURjnPayPQtFvenjc
